@@ -12,5 +12,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 </p>
 
-| <a href="https://github.com/luoxuhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/luoxuhai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/luoxuhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="https://github.com/luoxuhai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&layout=compact&hide_border=true&hide=html" /></a> |
 | ------------- | ------------- |
