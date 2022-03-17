@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" height="400">
+<img src="header.svg" width="100%" height="250">
 
 **Languages and Tools:**  
 
