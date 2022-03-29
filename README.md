@@ -1,5 +1,13 @@
 <img src="header.svg" width="100%" height="200">
 
+**About me**
+
+- 💼 FrontEnd Engineer at xxx
+
+- ❤️ xxx
+
+- 💬 xxx
+
 **Languages and Tools:**  
 
 <p>
