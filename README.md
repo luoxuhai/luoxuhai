@@ -13,4 +13,3 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&include_all_commits=true&count_private=true" />
-<img  align="center" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,css,less,stylus" />
