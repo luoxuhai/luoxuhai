@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" height="200">
+<img src="header.svg" width="100%" height="150">
 
 **About me**
 
