@@ -1,5 +1,7 @@
 <!-- <img src="header.svg" width="100%" height="150"> -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 **About me ✌️**
 
 - 🧑‍💻 FrontEnd Engineer at xxx, I created a free website: [快用工具](https://www.fastools.cn)
