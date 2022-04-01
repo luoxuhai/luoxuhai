@@ -6,10 +6,9 @@
 
 **About me ✌️**
 
-- 🧑‍💻 FrontEnd Engineer at xxx, I created a free website: [快用工具](https://www.fastools.cn)
+- 🧑‍💻 FrontEnd developer, I created a free website: [快用工具](https://www.fastools.cn)
 
-- 🌱 Open Source contributor. @expo, 
-
+- 🌱 Open source contributor. [@expo](https://github.com/expo/expo), [@react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
 
 **Languages and Tools**  
 
