@@ -8,7 +8,7 @@
 
 - 🎨 Front-end developer, I created some free apps: [快用工具](https://www.fastools.cn)
 
-- 🌱 Open source contributor. [@react-native](https://github.com/facebook/react-native), [@expo](https://github.com/expo/expo), [@device-info](https://github.com/react-native-device-info/react-native-device-info), [@document-picker](https://github.com/rnmods/react-native-document-picker)
+- 🌱 Open source contributor. [@react-native](https://github.com/facebook/react-native), [@expo](https://github.com/expo/expo), [@device-info](https://github.com/react-native-device-info/react-native-device-info), [@share](https://github.com/react-native-share/react-native-share), [@document-picker](https://github.com/rnmods/react-native-document-picker)
 - 🔥 My open source objects: [@react-native-app-toolkit](https://github.com/luoxuhai/react-native-app-toolkit), [@react-native-community-library](https://github.com/react-native-community-library)
 
 **Languages and Tools**  
