@@ -7,8 +7,8 @@
 **About me ✌️**
 
 - 🎨 Front-end and iOS developer
-- 🌱 Open source contributor.
-- 🔥 My open source objects: [react-native-app-toolkit](https://github.com/luoxuhai/react-native-app-toolkit), [@react-native-community-library](https://github.com/react-native-community-library)
+- 🌱 Open source contributor
+- 🔥 More...
 
 **Languages and Tools**  
 
