@@ -6,8 +6,8 @@
 
 **About me ✌️**
 
-- 🎨 Front-end and iOS developer
-- 🌱 Open source contributor
+- 🎨 Front-end and iOS developer.
+- 🌱 Open source contributor.
 - 🔥 More...
 
 **Languages and Tools**  
