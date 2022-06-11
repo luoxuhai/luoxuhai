@@ -1,7 +1,7 @@
 <!-- <img src="header.svg" width="100%" height="150"> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Welcome+to+my+profile!&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Welcome+to+My+Profile!&size=28" />
 </p>
 
 **About me ✌️**
