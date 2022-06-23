@@ -9,7 +9,7 @@
 - 🎨 Front-end and iOS developer.
 - 🌱 Open source contributor.
 
-**My Apps**
+**My apps**
 
 - [PSpace(隐私空间)](https://apps.apple.com/app/id1597534147)
 - [Daily Todo(每日待办)](https://apps.apple.com/app/id1622534799)
