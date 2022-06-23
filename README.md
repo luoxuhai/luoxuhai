@@ -15,6 +15,7 @@
 - [Daily Todo(每日待办)](https://apps.apple.com/app/id1622534799)
 - [快用工具](https://www.fastools.cn)
 
+<!--
 **Languages and Tools**  
 
 <p>
@@ -28,6 +29,8 @@
 <code><a href="https://github.com/topics/nodejs"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 <code><a href="https://github.com/topics/database"><img height="20" src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png"></a></code>
 </p>
+-->
+
 <!--
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,java" />
 -->
