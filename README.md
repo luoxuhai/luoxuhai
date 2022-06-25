@@ -6,7 +6,7 @@
 
 **About me ✌️**
 
-- 🎨 Front-end and iOS developer.
+- 🎨 Web and iOS developer.
 - 🌱 Open source contributor.
 
 **My apps**
