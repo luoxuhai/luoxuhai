@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Welcome+to+My+Profile!&size=28" />
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css&hide_border=true" />
+
 **About me ✌️**
 
 - 🎨 Web and iOS developer.
@@ -28,8 +30,6 @@
 <code><a href="https://github.com/topics/nodejs"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 </p>
 -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css&layout=compact" />
 
 <!--
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,css,stylus,less&hide_border=true&&layout=compact" /> |
