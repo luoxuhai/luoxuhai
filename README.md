@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Welcome+to+My+Profile!&size=28" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css&hide_border=true&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css,scss&hide_border=true&layout=compact" />
 
 **About me ✌️**
 
