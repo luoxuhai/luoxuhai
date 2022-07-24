@@ -33,7 +33,7 @@
 
 
 <!--
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,css,stylus,less&hide_border=true&&layout=compact" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,css,stylus,less,java&hide_border=true&&layout=compact" /> |
 | ------------- | ------------- |
 -->
 
