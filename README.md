@@ -27,6 +27,7 @@
 <code><a href="https://github.com/topics/nodejs"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 <code><a href="https://github.com/topics/swift"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></a></code>
 <code><a href="https://github.com/topics/objective-c"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></a></code>
+<code><a href="https://github.com/topics/c"><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></a></code>
 <code><a href="https://github.com/topics/cpp"><img height="20" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/cpp/cpp.png"></a></code>
 <code><a href="https://github.com/topics/web-assembly"><img height="20" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/web-assembly/web-assembly.png"></a></code>
 </p>
