@@ -7,7 +7,7 @@
 - 🎨 Web and iOS developer.
 - 🌱 Open source contributor.
 
-**Languages and Tools**  
+**Languages and Library**  
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
