@@ -1,8 +1,10 @@
 <img src="header.svg" width="100%" height="150">
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Welcome+to+My+Profile!&size=28" />
 </p>
+-->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css,scss,java,WebAssembly&hide_border=true&layout=compact" />
 
