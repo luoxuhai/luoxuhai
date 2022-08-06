@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" height="120">
+## Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css,scss,java,WebAssembly&hide_border=true&layout=compact" />
 
