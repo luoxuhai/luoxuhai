@@ -5,7 +5,7 @@
 **About me ✌️**
 
 - 🔭 I’m currently working on [pcl.js](https://github.com/luoxuhai/pcl.js)
-- 🌱 I’m currently learning Angular and C++
+- 🌱 I’m currently learning [Angular](https://github.com/angular/angular) and [PixiJS](https://github.com/pixijs/pixijs)
 - 📫 How to reach me: darkce97@gmail.com
 
 **Languages and Library**  
@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
