@@ -5,7 +5,7 @@
 **About me ✌️**
 
 - 🔭 I’m currently working on [pcl.js](https://github.com/luoxuhai/pcl.js)
-- 🌱 I’m currently learning Angular、C++
+- 🌱 I’m currently learning Angular and C++
 - 📫 How to reach me: darkce97@gmail.com
 
 **Languages and Library**  
