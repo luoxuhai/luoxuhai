@@ -4,8 +4,9 @@
 
 **About me ✌️**
 
-- 🎨 Web and iOS developer.
-- 🌱 Open source contributor.
+- 🔭 I’m currently working on [pcl.js](https://github.com/luoxuhai/pcl.js)
+- 🌱 I’m currently learning Angular、C++
+- 📫 How to reach me: darkce97@gmail.com
 
 **Languages and Library**  
 
