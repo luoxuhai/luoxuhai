@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoxuhai&hide=html,stylus,less,css,scss,java,WebAssembly,c&hide_border=true&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true" />
 
 **About me ✌️**
 
