@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [pcl.js](https://github.com/luoxuhai/pcl.js)
 - 🌱 I’m currently learning [PixiJS](https://github.com/pixijs/pixijs)
-- 💡 My open source: [List](https://github.com/stars/luoxuhai/lists/my)
+- 💡 My open source projects: https://github.com/stars/luoxuhai/lists/my
 - 📫 How to reach me: darkce97@gmail.com
 
 **Languages and Library**  
