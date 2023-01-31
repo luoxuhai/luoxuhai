@@ -4,7 +4,7 @@
 
 **About me ✌️**
 
-- 🔭 I’m currently working on [ground-segmentation](https://github.com/luoxuhai/ground-segmentation)
+- 🔭 I’m currently working on [夜视仪(NightVision) iOS App](https://github.com/luoxuhai/NightVision)
 - 🌱 I’m currently learning [PixiJS](https://github.com/pixijs/pixijs)
 - 💡 My open source projects: https://github.com/stars/luoxuhai/lists/my
 - 📫 How to reach me: darkce97@gmail.com
