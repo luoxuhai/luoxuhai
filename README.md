@@ -9,6 +9,8 @@
 - 💡 My open source projects: https://github.com/stars/luoxuhai/lists/my
 - 📫 How to reach me: darkce97@gmail.com
 
+<a href="https://liberapay.com/Darkce/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 **Languages and Library**  
 
 <p>
