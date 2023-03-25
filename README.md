@@ -5,7 +5,7 @@
 **About me ✌️**
 
 - 🔭 I’m currently working on [open3d.js](https://github.com/luoxuhai/open3d.js)
-- 🌱 I’m currently learning [PixiJS](https://github.com/pixijs/pixijs)
+- 🌱 I’m currently learning [Angular](https://angular.io)
 - 💡 My open source projects: https://github.com/stars/luoxuhai/lists/my
 - 📫 How to reach me: darkce97@gmail.com
 
