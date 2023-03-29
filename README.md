@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [open3d.js](https://github.com/luoxuhai/open3d.js)
 - 🌱 I’m currently learning English
-- 💡 My open source projects: https://github.com/stars/luoxuhai/lists/my
+- 💡 My open source projects: [https://www.luoxuhai.com/projects](https://www.luoxuhai.com/projects)
 - 📫 How to reach me: darkce97@gmail.com
 
 <a href='https://ko-fi.com/T6T6IU74O' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
