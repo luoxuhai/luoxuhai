@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&theme=graywhite" />
+
 **About me ✌️**
 
 - 🔭 I’m currently working on [open3d.js](https://github.com/luoxuhai/open3d.js)
@@ -21,5 +23,3 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Three.js-dddddd?style=for-the-badge&logo=threedotjs&logoColor=black" />
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&theme=graywhite" />
