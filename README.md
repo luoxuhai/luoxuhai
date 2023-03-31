@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Three.js-dddddd?style=for-the-badge&logo=threedotjs&logoColor=black" />
 </p>
 
-<div>
+<div style="display: flex">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true" />
   <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luoxuhai&theme=github" />
 </div>
