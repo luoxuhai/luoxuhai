@@ -4,7 +4,7 @@
 
 **About me ✌️**
 
-- 🔭 I’m currently working on [open3d.js](https://github.com/luoxuhai/open3d.js)
+- 🔭 I’m currently working on [Local-first software](https://www.inkandswitch.com/local-first)
 - 🌱 I’m currently learning English
 - 💡 My open source projects: [My Projects](https://www.luoxuhai.com/projects)
 - 📫 How to reach me: darkce97@gmail.com
