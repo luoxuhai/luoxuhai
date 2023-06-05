@@ -5,7 +5,6 @@
 **About me ✌️**
 
 - 🔭 I’m currently working on [Local-first software](https://www.inkandswitch.com/local-first)
-- 🌱 I’m currently learning English
 - 💡 My open source projects: [My Projects](https://github.com/stars/luoxuhai/lists/my)
 - 📫 How to reach me: darkce97@gmail.com
 
