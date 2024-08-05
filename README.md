@@ -4,7 +4,6 @@
 
 **About me ✌️**
 
-- 🔭 I’m currently working on [Local-first software](https://www.inkandswitch.com/local-first)
 - 🐱 My open source projects: [My Projects](https://luoxuhai.com/projects)
 - 📱 My apps: [My Apps](https://luoxuhai.com/apps)
 - 📫 How to reach me: darkce97@gmail.com
