@@ -4,8 +4,7 @@
 
 **About me ✌️**
 
-- 🐱 My open source projects: [My Projects](https://luoxuhai.com/projects)
-- 📱 My apps: [My Apps](https://luoxuhai.com/apps)
+- 📱 My apps: [My Apps](https://luoxuhai.com/about)
 - 📫 How to reach me: darkce97@gmail.com
 
 <a href='https://ko-fi.com/T6T6IU74O' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
