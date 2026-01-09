@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luoxuhai&show_icons=true&theme=graywhite" />
-
 **About me ✌️**
 
 I’m an independent developer focused on building apps for the Apple ecosystem.
